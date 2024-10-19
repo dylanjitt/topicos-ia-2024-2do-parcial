@@ -30,5 +30,37 @@
         "destination": "Dallas",
         "cost": 401,
         "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "FLIGHT",
+        "date": "2024-10-18",
+        "departure": "Miami",
+        "destination": "Boston",
+        "cost": 699,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "BUS",
+        "date": "2024-12-13",
+        "departure": "Colorado",
+        "destination": "Boston",
+        "cost": 513,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "checkin_date": "2024-12-10",
+        "checkout_date": "2024-12-20",
+        "hotel_name": "Gloria",
+        "city": "La Paz",
+        "cost": 819,
+        "reservation_type": "HotelReservation"
+    },
+    {
+        "reservation_time": "2024-12-10T19:00:00",
+        "restaurant": "Dave's Hot Chicken",
+        "city": "Boston",
+        "dish": "Fried chicken Sandwich",
+        "cost": 54,
+        "reservation_type": "RestaurantReservation"
     }
 ]
